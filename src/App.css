@@ -50,6 +50,14 @@ footer {
   color: #282c34;
 }
 
+.odd {
+  background-color: olive;
+}
+
+.even {
+  background-color: hotpink;
+}
+
 button {
   height: 50px;
   width: 150px;
