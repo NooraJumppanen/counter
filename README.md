@@ -1,3 +1,3 @@
 # Counter App
 
-![Screenshot](/images/Screenshot?raw=true "Screenshot of the app")
+![Screenshot](/images/Screenshot.png?raw=true "Screenshot of the app")
